@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "SafeERC20Upgradeable",
+  "sourceName": "contracts/senseilock.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212200d8006155f32940cccfc2254ba60d8e8772f91effe77964a06aadbbe007776e264736f6c63430008110033",
+  "deployedBytecode": "0x600080fdfea26469706673582212200d8006155f32940cccfc2254ba60d8e8772f91effe77964a06aadbbe007776e264736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
